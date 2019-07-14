@@ -3,12 +3,12 @@
   "name": "Awesome Site",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "geneicon.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "splashscreen.png",
+      "src": "genesplash.jpg",
       "sizes" : "512x512",
       "type":"image/png"
     }
