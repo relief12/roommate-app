@@ -1,6 +1,6 @@
 body {
   background-color: aliceblue;
-  background-image: url('./Images/back2.jpg');
+  background-image: url('./Images/back3.jpg');
   background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,6 +25,15 @@ body {
 .login-links{
 
   text-indent: 30px;
+  color: white;
   text-align: inherit;
+  
+}
+
+.login-links a{
+
+ 
+  color: white;
+  
   
 }
